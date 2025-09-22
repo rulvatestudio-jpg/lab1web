@@ -25,7 +25,8 @@ Pada langkah pertama, saya membuat struktur dasar HTML yang terdiri dari tag `<!
     <meta charset="UTF-8">
     <title>Halaman HTML Dasar</title>
 </head>
-<body>
+<body>![Uploading Screenshot 2025-09-22 222122.png…]()
+
     <p>Ini adalah paragraf pertama</p>
 </body>
 </html>
