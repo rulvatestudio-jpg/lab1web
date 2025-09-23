@@ -16,6 +16,7 @@ Pada praktikum ini, saya telah mempelajari dasar-dasar HTML, termasuk struktur d
 
 ### Langkah 1: Membuat Struktur Dasar HTML
 Pada langkah pertama, saya membuat struktur dasar HTML yang terdiri dari tag `<!DOCTYPE html>`, tag `<html>`, `<head>`, dan `<body>` untuk membentuk sebuah dokumen HTML yang valid.
+<img width="1920" height="1200" alt="Screenshot 2025-09-22 221510" src="https://github.com/user-attachments/assets/852165ba-6d68-439a-9c29-156e6b0b921b" />
 
 **Kode yang ditambahkan:**
 ```html
